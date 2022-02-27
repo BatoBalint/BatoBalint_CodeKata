@@ -1,0 +1,4 @@
+# Project exclude paths
+/collection-interfaces/target/
+/common-test-tool/target/
+/stream-api/target/
